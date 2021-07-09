@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 linea 1
 linea 2
+linea 3
+linea 4
+linea 5
+=======
+linea 1
+>>>>>>> parent of 0a5a637 (linea 2)
